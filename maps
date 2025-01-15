@@ -1361,39 +1361,39 @@
       "website": "http://www.canbassibiza.com/"
     },
     {
-      "id": 41,
-      "title": "Can Domingo & Mimí Pizza Bistrot",
-      "address": "Carretera San José km 9.8, 07830 Sant Josep de sa Talaia",
-      "latitude": "38.906600",
-      "longitude": "1.312646",
-      "author": "",
-      "commentsEnabled": true,
-      "commentsPostUrl": "",
-      "commentsUrl": "",
-      "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg\" target=\"_blank\"><img src=\"https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg\" alt=\"Can Domingo & Mimí Pizza Bistrot\" title=\"Can Domingo & Mimí Pizza Bistrot\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>Can Domingo has gourmet Italian fare, while Mimi’s focuses on pizza. Both share a beautiful hilltop garden. Prices can be high, but it’s worth the experience!</p><p>Website: <a href=\"https://www.candomingoibiza.com/\" target=\"_blank\">candomingoibiza.com</a></p></div><br class=\"clear\" />",
-      "date": "2025-01-06T00:00:00+01:00",
-      "images": [
-        {
-          "id": "img-41",
-          "url": "https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg"
-        }
-      ],
-      "largeThumbnail": "https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg",
-      "originalThumbnail": "https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg",
-      "smallThumbnail": "https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg",
-      "thumbnail": "https://i.ibb.co/2c3MgqT/Can-Domingo-Mimi-Pizza-Bistrot.jpg",
-      "nbcomments": 0,
-      "phoneNumber": "+34 971 800 205",
-      "pinIconColor": "#e94f06",
-      "pinIconHeight": 300,
-      "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-      "pinIconWidth": 150,
-      "subtype": "restaurant",
-      "summary": "Italian, Mediterranean",
-      "type": "maps",
-      "url": "",
-      "website": "https://www.candomingoibiza.com/"
-    },
+  "id": 41,
+  "title": "Can Muson",
+  "address": "Es Coloms 98 - 07840 Santa Eulària des Riu",
+  "latitude": "38.97791916200273",
+  "longitude": "1.5033549905346393",
+  "author": "",
+  "commentsEnabled": true,
+  "commentsPostUrl": "",
+  "commentsUrl": "",
+  "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg\" target=\"_blank\"><img src=\"https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg\" alt=\"Can Muson\" title=\"Can Muson\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>Can Muson is the best next thing to see with your little ones – if you haven’t been there yet. A super pretty farm with cute animals, romantic gardens, and a terrace to enjoy their fresh organic menu of healthy dishes, plus homemade pancakes, cakes, and ice cream.</p></div><br class=\"clear\" />",
+  "date": "2025-01-06T00:00:00+01:00",
+  "images": [
+    {
+      "id": "img-41",
+      "url": "https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg"
+    }
+  ],
+  "largeThumbnail": "https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg",
+  "originalThumbnail": "https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg",
+  "smallThumbnail": "https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg",
+  "thumbnail": "https://i.ibb.co/HXkjBK5/Chloe-Can-Muson.jpg",
+  "nbcomments": 0,
+  "phoneNumber": "+34 971 33 93 46",
+  "pinIconColor": "#e94f06",
+  "pinIconHeight": 300,
+  "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+  "pinIconWidth": 150,
+  "subtype": "restaurant",
+  "summary": "Farm, organic, homemade treats",
+  "type": "maps",
+  "url": "",
+  "website": "https://www.ibizacanmuson.com/"
+},
     {
       "id": 42,
       "title": "Can Jordi Blues Station",

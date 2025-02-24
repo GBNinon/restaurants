@@ -1311,8 +1311,6 @@
     "url": "",
     "website": ""
   },
-{
-[
   {
     "id": 40,
     "title": "Chimichurri Restaurant",
@@ -1843,8 +1841,6 @@
     "website": ""
   },
 {
-[
-  {
     "id": 56,
     "title": "Cala Bossa Beach Restaurant",
     "address": "Cala Bossa, 07840 Ibiza",
@@ -2354,6 +2350,8 @@
     "url": "",
     "website": "https://elrincondelpuebloibiza.com/"
   }
-]
-
-
+  ],
+  "next_page": null,
+  "generated_in": "0.010000 s",
+  "stat": "ok"
+}

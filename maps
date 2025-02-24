@@ -2008,7 +2008,7 @@
     "type": "maps",
     "url": "",
     "website": "https://thegardeneateryibiza.com/"
-}'
+},
 {
     "id": 61,
     "title": "Brunch & Beats",
@@ -2348,8 +2348,5 @@
     "type": "maps",
     "url": "",
     "website": "https://elrincondelpuebloibiza.com/"
-  }
-]
-
   }
 ]
